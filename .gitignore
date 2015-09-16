@@ -1,3 +1,7 @@
+
+TRMagicalRecord/Pods
+TRMagicalRecord/Podfile.lock
+.DS_Store
 # Xcode
 #
 build/
