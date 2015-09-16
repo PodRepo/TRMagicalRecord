@@ -27,7 +27,7 @@ Pod::Spec.new do |s|
 #s.resources = "Resources/*"
   #s.vendored_frameworks = "Framework/*.{framework}"
 
-  #s.frameworks        = "SystemConfiguration", "CoreTelephony", "Security"
+  s.frameworks        = "CoreData"
   #s.library = 'stdc++.6.0.9', 'z'
   # s.library   = "iconv"
   # s.libraries = "iconv", "xml2"
